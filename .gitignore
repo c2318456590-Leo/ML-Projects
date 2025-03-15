@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+env/
+venv/
+.venv/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# Data files (large)
+*.zip
+*.pth
+*.pt
+*.h5
+*.pkl
+02-CNN-CatDog/train/
+02-CNN-CatDog/test/
+data/
+
+# Logs
+*.log
